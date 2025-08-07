@@ -13,14 +13,17 @@ body {
 }
 
 .header {
-  background: linear-gradient(to right, #42210b, #603813);
-  color: #fff;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1.6rem;
-  border-bottom: 1px solid #ddd;
-  height: 65px;
+ background: linear-gradient(to right, #42210b, #603813);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.6rem;
+    border-bottom: 1px solid #ddd;
+    height: 65px;
+    z-index: 1000px;
+    width: 100%;
+    position: fixed;
 
 
 }
@@ -497,6 +500,7 @@ hr{
   left: 120px;
 }
 }
+
 
 
 
