@@ -8,6 +8,8 @@
 body {
   background-color: #fff;
   color: #000;
+  margin-top: 65px; /* نفس ارتفاع الهيدر */
+
 }
 
 .header {
@@ -495,4 +497,5 @@ hr{
   left: 120px;
 }
 }
+
 
