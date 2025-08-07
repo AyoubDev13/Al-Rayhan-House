@@ -19,6 +19,7 @@ body {
   padding: 1.6rem;
   border-bottom: 1px solid #ddd;
   height: 65px;
+  width:80%;
 }
 
 .header .logo img {
