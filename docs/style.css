@@ -19,6 +19,8 @@ body {
   padding: 1.6rem;
   border-bottom: 1px solid #ddd;
   height: 65px;
+  position: fixed;
+
 }
 
 .header .logo img {
@@ -493,3 +495,4 @@ hr{
   left: 120px;
 }
 }
+
