@@ -21,9 +21,6 @@ body {
     padding: 1.6rem;
     border-bottom: 1px solid #ddd;
     height: 65px;
-    z-index: 1000px;
-    width: 100%;
-    position: fixed;
 
 
 }
@@ -500,6 +497,7 @@ hr{
   left: 120px;
 }
 }
+
 
 
 
