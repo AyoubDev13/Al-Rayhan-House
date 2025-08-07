@@ -22,6 +22,10 @@ body {
   border-bottom: 1px solid #ddd;
   height: 65px;
   position: fixed;
+  top: 0;
+left: 0;
+width: 100%;
+z-index: 1000;
 
 }
 
@@ -497,6 +501,7 @@ hr{
   left: 120px;
 }
 }
+
 
 
 
